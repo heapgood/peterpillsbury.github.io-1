@@ -1,6 +1,6 @@
 /* Header Styles */
 .header {
-    background-image: image("../images/love-it.jpg")
+    background-image: url("https://github.com/peterpillsbury/portfolio/blob/master/images/horses.jpg")
     background-size: cover;
     background-repeat: no-repeat;
     max-height: 500px;
