@@ -1,6 +1,6 @@
 /* Header Styles */
 .header {
-    background-image: url(../images/upsBackground.png);
+    background-image: image("../images/love-it.jpg")
     background-size: cover;
     background-repeat: no-repeat;
     max-height: 500px;
